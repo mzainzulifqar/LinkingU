@@ -1,0 +1,366 @@
+@font-face{
+	font-family:zain;
+	src:url('../font-family/BlackHanSans-Regular.ttf');
+}
+/*body{
+	color:white;
+}*/
+.padding-top-sm{
+	padding-top:15px;
+}
+.padding-top-sm-xs{
+	padding-top:30px;
+}
+
+.padding-md{
+	padding:15px;
+}
+.padding-top-md{
+	padding-top:80px;
+}
+
+.padding-bottom-sm{
+	padding-bottom:15px;
+}
+.padding{
+	padding-bottom:0px;
+}
+.padding-lf{
+	padding-left:10px;
+	padding-right:5px;
+}
+.padding-left-md{
+	padding-left:30px;
+}
+.padding-lf label a{
+	font-size:12px;
+}
+.padding-bottom-lg{
+	padding-bottom:190px;
+}
+.margin-bottom-md{
+	margin-bottom: 30px;
+}
+
+.profile-card-pd{
+	padding:10px;
+}
+
+a{
+	color:white;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+	color:white;
+}
+.bt-login-color{
+	background-color: #2948ff;
+}
+.bt-login-color:hover{
+	color:white;
+}
+.text-family{
+	font-family: zain;
+}
+.footer{
+	
+  
+    background-color: #337ab7;
+
+}
+.footer2{
+    background-color: #337ab7;
+
+}
+.footer2 h4{
+	padding-top:0px;
+	color:white;
+	font-family:'Oxygen', sans-serif;
+	font-weight: 400;
+	font-size:22px;
+}
+.footer2 span{
+	color:red;
+}
+.footer h4{
+	padding-top:0px;
+	color:white;
+	font-family:'Oxygen', sans-serif;
+	font-weight: 400;
+	font-size:22px;
+}
+
+.footer span{
+	color:red;
+}
+
+
+.grad{
+background: #02AAB0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #00CDAC, #02AAB0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #00CDAC, #02AAB0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    border-color: #E55D87;
+    color: white;
+}
+.padding-navbar{
+	padding:0px;
+}
+.navbar-inverse {
+		background: #0d1a63;  /* fallback for old browsers */
+/*background: -webkit-linear-gradient(to bottom, #0082c8, #0082c8);  /* Chrome 10-25, Safari 5.1-6 */
+/*background: linear-gradient(to bottom,  #0082c8, #0082c8);  W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+*/
+    border-color: #0d1a63;
+    margin-bottom:0px;
+}
+@media (min-width: 768px)
+{
+.navbar-form .form-control {
+   
+
+	width:401px;
+}
+}
+.navbar-inverse .navbar-header a{
+	color:white;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color:white;
+	line-height: 25px;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form
+{
+	padding-top: 2px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.navbar-inverse .navbar-form {
+    border-color: #1874CD;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+	border-color:#1874CD;
+}
+.navbar-inverse .navbar-toggle:hover {
+ border-color: #0d1a63;
+ background-color: #0d1a63;
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+	 border-color:#0d1a63;
+ background-color: #0d1a63;
+}
+
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover{
+		 border-color:#0d1a63;
+ background-color: #0d1a63;
+}
+.navbar-inverse .navbar-toggle{
+ border-color:#ffffff;
+}
+
+.profile-div img{
+	width:217px;
+	height:214px;
+}
+.profile-div h3{
+		font-family: zain;
+		font-size:28px;
+		padding-bottom:10px;
+
+
+}
+
+/*.profile-div{
+	border:1px solid black;
+	border-style:  dotted ;
+	}*/
+.bg-section{
+	background: #000046;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #000046,#1cb5e0 );  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom,#000046,#1cb5e0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    border-color: #E55D87;
+    color: white;
+}
+.md-auto{
+	margin:0 auto;
+}
+.info{
+	padding-top:20px;
+}
+.info ul li{
+		padding-top:10px;
+		font-family: zain;
+		font-size:16px;
+		font-weight: 500;
+
+}
+.info ul li span{
+		font-family:'Oxygen', sans-serif;
+		font-size:16px;
+}
+.infoo ul li{
+		padding-top:5px;
+		font-family: zain;
+		font-size:16px;
+		font-weight: 500;
+
+}
+.post-form{
+	padding-left:20px;
+	padding-top:20px;
+}
+.post h4{
+		font-size:32px;
+}
+.profile-card img{
+	width:100%;
+	height:300px;
+	box-shadow: 10px 9px 51px 0px #69696b;
+}
+
+.social{
+	    margin-top: 43px;
+    margin-left: 20px;
+    
+}
+.pc{
+	line-height: 1.42857143;
+    background-color: #fff;
+
+    box-shadow: 4px 7px 41px -4px #574557;
+ 
+}
+
+.message li a{
+	color:black;
+}
+/*form validation*/
+
+form label {
+  display: inline-block;
+  width: 100px;
+}
+ 
+form div {
+  margin-bottom: 10px;
+}
+ 
+.error {
+  color: red;
+  margin-left: 5px;
+}
+ 
+label.error {
+  display: inline;
+}
+
+.message_profile ul li{
+	font-size:18px;
+}
+.message_profile ul{
+	padding-top:20px;
+}
+
+.pwd_label{
+	width:68px;
+}
+.label_gender{
+	margin-left: -11px;
+}
+
+
+
+/* animations  */
+
+.slideanim {visibility:hidden;}
+.slide {
+    /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide; 
+    /* The duration of the animation */
+    animation-duration: 1s; 
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible; 
+}
+
+/* Go from 0% to 100% opacity (see-through) and specify the percentage from when to slide in the element along the Y-axis */
+@keyframes slide {
+    0% {
+        opacity: 0;
+        transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        transform: translateY(0%);
+    } 
+}
+@-webkit-keyframes slide {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    }
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px)
+{
+	.padding-top-sm-768
+	{
+		padding-top:20px;
+	}
+	.post-form{
+		padding-top:20px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
